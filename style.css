@@ -1,0 +1,12 @@
+body {background: url(./background.png);}
+p {font-family: 'Courier New', Courier, monospace;
+font-size: 20px;font-weight: bold;text-align: center;background-color: lightgrey;color:green;
+border-radius: 25px;padding: 15px;}
+h1 {color: red;text-align: center;}
+.question {opacity: 0.5;
+background: url(https://www.w3schools.com/css/mountain.jpg);
+}
+.container {width: 500px;margin: auto;}
+.sign {
+    font-family: 'Lobster', cursive;text-align: right;
+}
